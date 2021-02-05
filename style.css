@@ -9,6 +9,8 @@ body{
 h1{
 	color:	 black;
 	font-size: 40px;
+	left-margin: auto;
+	right-margin: auto;
 }
 
 h2{
