@@ -1,57 +1,118 @@
 body{
+
 	padding: 25px;
+
 	font: Sans-serif;
+
 	font-style: normal
+
 	
+
 	
+
 }
+
+
+
 
 h1{
+
 	color:	 black;
+
 	font-size: 40px;
-	margin-left: auto;
-	margin-right: auto;
+
+	
+
 }
 
+
+
+
 h2{
+
 	color: DodgerBlue;
+
 	font-size: 25px
+
 	
+
 }
+
 div.projects{
+
 	
+
 	padding: 10px 35px 0px 35px;
+
 	font-size: 20px;
+
 }
+
+
+
+
+
 
 
 .projects h4{
-		color: orange;
+
+		color: blue;
+
 		font-size: 30px;
+
 		padding:0;
+
 		margin:20px;
+
 }
+
+
+
 
 .projects h5{
+
 	
+
 	color: black;
+
 	font-size: 25px;
+
 	padding:0;
+
 	margin:20px;
+
 	
+
 }
+
+
+
 
 p{
+
 	margin: 0px 20px 0px 20px;
+
 	padding: 0;
-}
-table {
-    border-collapse: collapse;
-    width: 100%;
-    margin:20px;
+
 }
 
+table {
+
+    border-collapse: collapse;
+
+    width: 100%;
+
+    margin:20px;
+
+}
+
+
+
+
  td {
+
     padding: 8px;
+
     
+
 }
